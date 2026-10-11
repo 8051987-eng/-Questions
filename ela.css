@@ -1,0 +1,20 @@
+header{
+    font-size: 100px;
+    text-align: center;
+    background-color: lightcoral;
+}
+body{
+    background-color: lightsalmon;
+}
+
+p{
+    font-size: 100px;
+}
+p2{
+    font-size: 40px;
+    font-family: Space Grotesk;
+}
+
+pre{
+    font-family: Space Grotesk;
+}
